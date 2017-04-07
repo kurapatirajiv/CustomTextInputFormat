@@ -1,0 +1,3 @@
+This is my line$This is my another line$This is my new line$
+This is my second new Line$
+The program name is: "Custom Text Input format"
